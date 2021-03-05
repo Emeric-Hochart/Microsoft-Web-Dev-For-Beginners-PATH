@@ -199,6 +199,13 @@ Compare some programming languages. What are some of the unique traits of JavaSc
 
 Study a bit on the different languages available to the programmer. Try to write a line in one language, and then redo it in two others. What do you learn?
 
+🏆 Hello World
+- [Javascript](https://github.com/Emeric-Hochart/Microsoft-Web-Dev-For-Beginners-PATH/blob/main/1-getting-started-lessons/1-intro-to-programming-languages/ReviewAndSelfStudy.js)
+- [Java](https://github.com/Emeric-Hochart/Microsoft-Web-Dev-For-Beginners-PATH/blob/main/1-getting-started-lessons/1-intro-to-programming-languages/ReviewAndSelfStudy.java)
+- [Python](https://github.com/Emeric-Hochart/Microsoft-Web-Dev-For-Beginners-PATH/blob/main/1-getting-started-lessons/1-intro-to-programming-languages/ReviewAndSelfStudy.py)
+
+
+
 ## Assignment
 
 [Reading the Docs](assignment.md)
