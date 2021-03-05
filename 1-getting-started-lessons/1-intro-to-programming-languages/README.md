@@ -188,6 +188,10 @@ Compare some programming languages. What are some of the unique traits of JavaSc
 - JavaScript code is run on a browser only, while Java creates applications that run in a virtual machine or browser.
 - Java is an OOP (object-oriented programming) language, and JavaScript is specifically an OOP scripting language.
 
+🏆
+- COBOL: Imperative, procedural and, since 2002, object-oriented programming language. COBOL was one of the first programming languages to be standardised: the first COBOL standard was issued by ANSI in 1968. COBOL is primarily used in business, finance, and administrative systems for companies and governments; 
+- Go: An open source programming language that makes it easy to build simple, reliable, and efficient software. Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs that get the most out of multicore and networked machines, while its novel type system enables flexible and modular program construction. Go compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection. It's a fast, statically typed, compiled language that feels like a dynamically typed, interpreted language.
+
 ## Post-Lecture Quiz
 [Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/2) 🏆100%
 
