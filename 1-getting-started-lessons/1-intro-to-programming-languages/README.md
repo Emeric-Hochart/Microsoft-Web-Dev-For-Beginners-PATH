@@ -182,6 +182,12 @@ When a developer wants to learn something new, they'll most likely turn to docum
 
 Compare some programming languages. What are some of the unique traits of JavaScript vs. Java? How about COBOL vs. Go?
 
+🏆
+- Java code must be compiled, and JavaScript code is all-text.
+- Each language requires different plug-ins.
+- JavaScript code is run on a browser only, while Java creates applications that run in a virtual machine or browser.
+- Java is an OOP (object-oriented programming) language, and JavaScript is specifically an OOP scripting language.
+
 ## Post-Lecture Quiz
 [Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/2) 🏆100%
 
