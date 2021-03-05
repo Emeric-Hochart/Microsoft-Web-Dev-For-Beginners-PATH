@@ -174,6 +174,7 @@ When a developer wants to learn something new, they'll most likely turn to docum
 - [Frontend Masters](https://frontendmasters.com/learn/)
 
 ✅ Do some research: Now that you know the basics of a web developer's environment, compare and contrast it with a web designer's environment.
+🏆 Using software tools such as Adobe Photoshop, Framer, or Sketch to build the final layout design of the website
 
 ---
 
