@@ -160,6 +160,10 @@ For the subject use the imperative, present tense: "change" not "changed" nor "c
 As in the subject, in the body (optional) also use the imperative, present tense. The body should include the motivation for the change and contrast this with previous behavior. You're explaining the `why`, not the `how`.
 
 ✅ Take a few minutes to surf around GitHub. Can you find a really great commit message? Can you find a really minimal one? What information do you think is the most important and useful to convey in a commit message?
+🏆
+- [Minor build system fixes.](https://github.com/google/googletest)
+- [Avoid re-registering render callbacks when coalescing single element](https://github.com/microsoft/react-native-windows/commit/c7d227a76ced04b2c9be04ae28fcb2559f69481e)
+
 
 ### Task: Collaborate
 
