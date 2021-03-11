@@ -304,7 +304,9 @@ Projects might also have discussion in forums, mailing lists, or chat channels l
 Pair with a friend to work on each other's code. Create a project collaboratively, fork code, create branches, and merge changes.
 
 ## Post-Lecture Quiz
-[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/4)
+[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/4) 
+
+🏆 100%
 
 ## Review & Self Study
 
@@ -320,4 +322,4 @@ You'll also find more advanced labs.
 
 ## Assignment 
 
-Complete [the First Week on GitHub training lab](https://lab.github.com/githubtraining/first-week-on-github)
+Complete [the First Week on GitHub training lab](https://lab.github.com/githubtraining/first-week-on-github) 🏆 100%
