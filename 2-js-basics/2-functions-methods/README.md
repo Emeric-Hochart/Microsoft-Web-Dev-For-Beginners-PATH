@@ -183,6 +183,8 @@ You've now seen we have three ways to pass a function as a parameter and might b
 
 Can you articulate in one sentence the difference between functions and methods? Give it a try!
 
+🏆 A method is attached to an object (console in our example), while a function is free floating.
+
 ## Post-Lecture Quiz
 [Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/10)
 
