@@ -9,3 +9,24 @@ Identify a web site that you believe is NOT accessible, and create an action pla
 | Criteria       | Exemplary                                                                                                                                                      | Adequate                    | Needs Improvement           |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------------------------- |
 | student report | includes paragraphs on how the site is inadequate, the Lighthouse report captured as a pdf, a list of ten points to improve, with details on how to improve it | missing 20% of the required | missing 50% of the required |
+
+## Web site
+
+[Pokemon World](http://pokemaniak.world.free.fr/)
+
+### Action plan
+
+- Improve structure HTML5
+- Check link and url
+- Use alt
+- Check contrast color
+- Improve key accesibility
+
+### Contraste
+
+1) Les couleurs d'arrière-plan et de premier plan ne sont pas suffisamment contrastées
+2) Les éléments <frame> ou <iframe> n'ont pas de titre
+3) Des éléments d'image n'ont pas d'attribut [alt]
+4) Les éléments <object> n'ont pas de texte [alt]
+5) Les éléments d'en-tête ne sont pas classés séquentiellement par ordre décroissant
+
