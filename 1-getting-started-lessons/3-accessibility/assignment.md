@@ -22,7 +22,12 @@ Identify a web site that you believe is NOT accessible, and create an action pla
 - Check contrast color
 - Improve key accesibility
 
-### Contraste
+### Lighthouse 
+
+[pokemon-world-lighthouse.pdf](https://github.com/Emeric-Hochart/Microsoft-Web-Dev-For-Beginners-PATH/files/6134807/pokemon-world-lighthouse.pdf)
+
+
+### Detailed Plan
 
 1) Les couleurs d'arrière-plan et de premier plan ne sont pas suffisamment contrastées
 2) Les éléments <frame> ou <iframe> n'ont pas de titre
