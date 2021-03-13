@@ -28,6 +28,8 @@ Some browsers also have built-in tools and extensions that can read text aloud o
 
 ✅ Try a screen reader and browser text reader. On Windows [Narrator](https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1) is included by default, and [JAWS](https://webaim.org/articles/jaws/) and [NVDA](https://www.nvaccess.org/about-nvda/) can also be installed. On macOS and iOS, [VoiceOver](https://support.apple.com/guide/voiceover/welcome/10) is installed by default.
 
+🏆 Done
+
 ### Zoom
 
 Another tool commonly used by people with vision impairments is zooming. The most basic type of zooming is static zoom, controlled through `Control + plus sign (+)` or by decreasing screen resolution. This type of zoom causes the entire page to resize, so using [responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design) is important to provide a good user experience at increased zoom levels.
@@ -40,11 +42,15 @@ Colors on web sites need to be carefully chosen to  answer the needs of color-bl
 
 ✅ Test a web site you enjoy using for color usage with a browser extension such as [WCAG's color checker](https://microsoftedge.microsoft.com/addons/detail/wcag-color-contrast-check/idahaggnlnekelhgplklhfpchbfdmkjp?hl=en-US). What do you learn?
 
+🏆 Done
+
 ### Lighthouse
 
 In the developer tool area of your browser, you'll find the Lighthouse tool. This tool is important to get a first view of the accessibility (as well as other analysis) of a web site. While it's important not to rely exclusively on Lighthouse, a 100% score is very helpful as a baseline.
 
 ✅ Find Lighthouse in your browser's developer tool panel and run an analysis on any site. what do you discover?
+
+🏆 Done
 
 ## Designing for accessibility
 
@@ -62,11 +68,15 @@ People see the world in different ways, and this includes colors. When selecting
 
 ✅ Identify a web site that is very problematic in its use of color. Why?
 
+🏆 Done (contrast)
+
 ### Use the correct HTML
 
 With CSS and JavaScript it's possible to make any element look like any type of control. `<span>` could be used to create a `<button>`, and `<b>` could become a hyperlink. While this might be considered easier to style, it conveys nothing to a screen reader. Use the appropriate HTML when creating controls on a page. If you want a hyperlink, use `<a>`. Using the right HTML for the right control is called making use of Semantic HTML.
 
 ✅ Go to any web site and see if the designers and developers are using HTML properly. Can you find a button that should be a link? Hint: right click and choose 'View Page Source' in your browser to look at underlying code.
+
+🏆 Done
 
 ### Create a descriptive heading hierarchy
 
@@ -107,6 +117,8 @@ Good link text briefly describes what's on the other side of the link. In the ab
 > The [little penguin](https://en.wikipedia.org/wiki/Little_penguin), sometimes known as the fairy penguin, is the smallest penguin in the world.
 
 ✅ Surf the web for a few minutes to find pages that use obscure linking strategies. Compare them with other, better-linked sites. What do you learn?
+
+🏆 Done
 
 #### Search engine notes
 
@@ -154,6 +166,8 @@ Images that are purely decorative should have their `alt` attribute set to an em
 Some users are unable to use a mouse or trackpad, instead relying on keyboard interactions to tab from one element to the next. It's important for your web site to present your content in logical order so a keyboard user can access each interactive element as they move down a document. If you build your web pages with semantic markup and use CSS to style their visual layout, your site should be keyboard-navigable, but it's important to test this aspect manually. Learn more about [keyboard navigation strategies](https://webaim.org/techniques/keyboard/).
 
 ✅ Go to any web site and try to navigate through it using only your keyboard. What works, what doesn't work? Why?
+
+🏆 Done
 
 ## Summary
 
@@ -215,12 +229,16 @@ Take this HTML and rewrite it to be as accessible as possible, given the strateg
 </html>
 ```
 
+🏆 [Github Repo](https://github.com/Emeric-Hochart/accessibility-challenge)
+
 ## Post-Lecture Quiz
-[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/6)
+[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/6) 🏆 100%
 
 ## Review & Self Study
 
 Many governments have laws regarding accessibility requirements. Read up on your home country's accessibility laws. What is covered, and what isn't? An example is [this government web site](https://accessibility.blog.gov.uk/).
+
+🏆 [French government web site](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
 
 ## Assignment
  
