@@ -4,11 +4,11 @@
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Pre-Lecture Quiz
-[Pre-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/7)
+[Pre-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/7) 🏆100%
 
 This lesson covers the basics of JavaScript, the language that provides interactivity on the web.
 
-[![Data types in JavaScript](https://img.youtube.com/vi/JNIXfGiDWM8/0.jpg)](https://youtube.com/watch?v=JNIXfGiDWM8 "Data types in JavaScript")
+[![Data types in JavaScript](https://img.youtube.com/vi/JNIXfGiDWM8/0.jpg)](https://youtube.com/watch?v=JNIXfGiDWM8 "Data types in JavaScript") 🏆 Done
 
 
 Let's start with variables and the data types that populate them!
@@ -60,7 +60,7 @@ Creating and **declaring** a variable has the following syntax **[keyword] [name
 
    Once a variable is declared, you can change its value at any point in your code with the `=` operator and the new value.
 
-   ✅ Try it! You can write JavaScript right in your browser. Open a browser window and navigate to Developer Tools. In the console, you will find a prompt; type `let myVariable = 123`, press return, then type `myVariable`. What happens? Note, you'll learn more about these concepts in subsequent lessons.
+   ✅ Try it! You can write JavaScript right in your browser. Open a browser window and navigate to Developer Tools. In the console, you will find a prompt; type `let myVariable = 123`, press return, then type `myVariable`. What happens? Note, you'll learn more about these concepts in subsequent lessons. 🏆100%
 
 ## Constants
 
@@ -125,7 +125,7 @@ There are several types of operators to use when performing arithmetic functions
 | `/`    | **Division**: Calculates the quotient of two numbers                     | `1 / 2 //expected answer is 0.5` |
 | `%`    | **Remainder**: Calculates the remainder from the division of two numbers | `1 % 2 //expected answer is 1`   |
 
-✅ Try it! Try an arithmetic operation in your browser's console. Do the results surprise you?
+✅ Try it! Try an arithmetic operation in your browser's console. Do the results surprise you? 🏆 Done
 
 ### Strings
 
@@ -153,7 +153,7 @@ myString1 + ", " + myString2 + "!"; //Hello, World!
 
 ```
 
-✅ Why does `1 + 1 = 2` in JavaScript, but `'1' + '1' = 11?` Think about it. What about `'1' + 1`?
+✅ Why does `1 + 1 = 2` in JavaScript, but `'1' + '1' = 11?` Think about it. What about `'1' + 1`? 🏆 Done ( "11" )
 
 **Template literals** are another way to format strings, except instead of quotes, the backtick  is used. Anything that is not plain text must be placed inside placeholders `${ }`. This includes any variables that may be strings.
 
@@ -184,12 +184,14 @@ Booleans can be only two values: `true` or `false`. Booleans can help make decis
 
 JavaScript is notorious for its surprising ways of handling datatypes on occasion. Do a bit of research on these 'gotchas'. For example: case sensitivity can bite! Try this in your console: `let age = 1; let Age = 2; age == Age` (resolves `false` -- why?). What other gotchas can you find?
 
+NaN==NaN ? False !!! Object.is(NaN,NaN) ? True !!!
+
 ## Post-Lecture Quiz
-[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/8)
+[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/8) 🏆100%
 
 ## Review & Self Study
 
-Take a look at [this list of JavaScript exercises](https://css-tricks.com/snippets/javascript/) and try one. What did you learn?
+Take a look at [this list of JavaScript exercises](https://css-tricks.com/snippets/javascript/) and try one. What did you learn? 🏆 Done 
 
 ## Assignment
 
