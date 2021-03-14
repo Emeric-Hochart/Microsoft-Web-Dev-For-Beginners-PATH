@@ -186,12 +186,14 @@ Can you articulate in one sentence the difference between functions and methods?
 🏆 A method is attached to an object (console in our example), while a function is free floating.
 
 ## Post-Lecture Quiz
-[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/10)
+[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/10) 🏆100%
 
 ## Review & Self Study
 
-It's worth [reading up a little more on arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions), as they are increasingly used in code bases. Practice writing a function, and then rewriting it with this syntax.
+It's worth [reading up a little more on arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions), as they are increasingly used in code bases. Practice writing a function, and then rewriting it with this syntax. 🏆 Done
 
 ## Assignment
 
-[Fun with Functions](assignment.md)
+[Fun with Functions](assignment.md) 
+
+🏆 Done [Functions](https://github.com/Emeric-Hochart/Microsoft-Web-Dev-For-Beginners-PATH/blob/main/2-js-basics/2-functions-methods/function.js)
