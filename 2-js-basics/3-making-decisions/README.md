@@ -4,7 +4,7 @@
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Pre-Lecture Quiz
-[Pre-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/11)
+[Pre-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/11) 🏆 100%
 
 Making decisions and controlling the order in which your code runs makes your code reusable and robust. This section covers the syntax for controlling data flow in JavaScript and its significance when used with Boolean data types
 
@@ -35,7 +35,7 @@ Operators are used to evaluate conditions by making comparisons that will create
 | `===`  | **Strict equality**: Compares two values and returns the `true` Boolean data type if values on the right and left are equal AND are the same data type.       | `5 === 6 // false` |
 | `!==`  | **Inequality**: Compares two values and returns the opposite Boolean value of what a strict equality operator would return                                    | `5 !== 6 // true`  |
 
-✅ Check your knowledge by writing some comparisons in your browser's console. Does any returned data surprise you?
+✅ Check your knowledge by writing some comparisons in your browser's console. Does any returned data surprise you? 🏆 Done
 
 ## If Statement
 
@@ -77,7 +77,7 @@ else{
 }
 ```
 
-✅ Test your understanding of this code and the following code by running it in a browser console. Change the values of the currentMoney and laptopPrice variables to change the returned `console.log()`.
+✅ Test your understanding of this code and the following code by running it in a browser console. Change the values of the currentMoney and laptopPrice variables to change the returned `console.log()`. 🏆 Done
 
 ## Logical Operators and Booleans
 
@@ -136,7 +136,7 @@ let secondNumber = 10
 let biggestNumber = firstNumber > secondNumber ? firstNumber: secondNumber;
 ```
 
-✅ Take a minute to read this code a few times. Do you understand how these operators are working?
+✅ Take a minute to read this code a few times. Do you understand how these operators are working? 🏆 Done
 
 The above states that 
 - if `firstNumber` is larger than `secondNumber` 
@@ -162,7 +162,7 @@ Create a program that is written first with logical operators, and then rewrite 
 
 ---
 ## Post-Lecture Quiz
-[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/12)
+[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/12) 🏆 100%
 
 ## Review & Self Study
 
