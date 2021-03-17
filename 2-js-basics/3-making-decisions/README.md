@@ -158,7 +158,7 @@ if (firstNumber > secondNumber) {
 
 ## 🚀 Challenge
 
-Create a program that is written first with logical operators, and then rewrite it using a ternary expression. What's your preferred syntax?
+Create a program that is written first with logical operators, and then rewrite it using a ternary expression. What's your preferred syntax? 🏆 Done
 
 ---
 ## Post-Lecture Quiz
