@@ -172,4 +172,4 @@ Go through Josh Comeau's wonderful [operator lookup](https://joshwcomeau.com/ope
 
 ## Assignment
 
-[Operators](assignment.md)
+[Operators](assignment.md) 🏆 Done
