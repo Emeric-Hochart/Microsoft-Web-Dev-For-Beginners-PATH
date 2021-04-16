@@ -5,7 +5,7 @@
 
 ## Pre-Lecture Quiz
 
-[Pre-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/15)
+[Pre-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/15) 🏆 100%
 
 ### Introduction
 
@@ -17,7 +17,7 @@ In this lesson, we're going to use HTML to layout the 'skeleton' of our virtual 
 
 On your computer, create a folder called 'terrarium' and inside it, a file called 'index.html'. You can do this in Visual Studio Code after you create your terrarium folder by opening a new VS Code window, clicking 'open folder', and navigating to your new folder. Click the small 'file' button in the Explorer pane and create the new file:
 
-![explorer in VS Code](images/vs-code-index.png)
+![explorer in VS Code](images/vs-code-index.png) 🏆 Done
 
 Or
 
@@ -49,7 +49,7 @@ Add these lines at the top of your `index.html` file:
 ```
 
 ✅ There are a few different modes that can be determined by setting the DocType with a query string: [Quirks Mode and Standards Mode](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode). These modes used to support really old browsers that aren't normally used nowadays (Netscape Navigator 4 and Internet Explorer 5). You can stick to the standard doctype declaration.
-
+🏆 Done
 ---
 
 ## The document's 'head'
@@ -76,7 +76,7 @@ Add a 'head' block to your document in between the opening and closing `<html>` 
 ```
 
 ✅ What would happen if you set a viewport meta tag like this: `<meta name="viewport" content="width=600">`? Read more about the [viewport](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag).
-
+🏆 Done
 ---
 
 ## The document's `body`
@@ -101,6 +101,7 @@ In HTML, you add tags to your .html file to create elements of a web page. Each 
 ```
 
 Now, you can start building out your page. Normally, you use `<div>` tags to create the separate elements in a page. We'll create a series of `<div>` elements which will contain images.
+🏆 Done
 
 ### Images
 
@@ -170,7 +171,7 @@ With this markup, the plants now show up on the screen. It looks pretty bad, bec
 Each image has alt text that will appear even if you can't see or render an image. This is an important attribute to include for accessibility. Learn more about accessibility in future lessons; for now, remember that the alt attribute provides alternative information for an image if a user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
 
 ✅ Did you notice that each image has the same alt tag? Is this good practice? Why or why not? Can you improve this code?
-
+🏆 Done
 ---
 
 ## Semantic markup
@@ -186,6 +187,7 @@ Add the following line right below your opening `<body>` tag:
 Using semantic markup such as having headers be `<h1>` and unordered lists be rendered as `<ul>` helps screen readers navigate through a page. In general, buttons should be written as `<button>` and lists should be `<li>`. While it's _possible_ to use specially styled `<span>` elements with click handlers to mock buttons, it's better for disabled users to use technologies to determine where on a page a button resides, and to interact with it, if the element appears as a button. For this reason, try to use semantic markup as much as possible.
 
 ✅ Take a look at a screen reader and [how it interacts with a web page](https://www.youtube.com/watch?v=OUDV1gqs9GA). Can you see why having non semantic markup might frustrate the user?
+🏆 Done
 
 ## The terrarium
 
@@ -208,16 +210,17 @@ Add this markup above the last `</div>` tag:
 ```
 
 ✅ Even though you added this markup to the screen, you see absolutely nothing render. Why?
-
+🏆 Done
 ---
 
 ## 🚀Challenge
 
 There are some wild 'older' tags in HTML that are still fun to play with, though you shouldn't use deprecated tags such as [these tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Obsolete_and_deprecated_elements) in your markup. Still, can you use the old `<marquee>` tag to make the h1 title scroll horizontally? (if you do, don't forget to remove it afterwards)
+🏆 Done
 
 ## Post-Lecture Quiz
 
-[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/16)
+[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/16) 🏆 100%
 
 ## Review & Self Study
 
@@ -228,4 +231,4 @@ Learn more about building sites for the web and mobile devices at [Microsoft Lea
 
 ## Assignment
 
-[Practice your HTML: Build a blog mockup](assignment.md)
+[Practice your HTML: Build a blog mockup](assignment.md) 🏆 Done
